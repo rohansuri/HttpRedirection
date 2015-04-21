@@ -6,4 +6,10 @@ Perform Man in the middle attack on a victim using ARP Spoofing. And redirect th
   <li>Python<br>
   <li>Tkinter<br><br>
   
-Works on Ubuntu, Fedora.
+Works on Ubuntu, Fedora (all linux distro having Linux Netfiler system configured using iptables)<br>
+
+Read the doc file in the project, to understand -
+<ul>
+<li>The concept of ARP Spoofing
+<li>Explanation of iptables configuration
+</ul>
