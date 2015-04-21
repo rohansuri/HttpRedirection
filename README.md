@@ -14,3 +14,8 @@ Read the doc file in the project, to understand -
 <li>Explanation of iptables configuration
 </ul>
 
+<h4>Screenshots</h4>
+![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/screenshot.png "GUI")
+
+The redirect IP in the above image is of http://www.google.com
+
