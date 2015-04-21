@@ -6,4 +6,4 @@ Perform Man in the middle attack on a victim using ARP Spoofing. And redirect th
   Python<br>
   Tkinter<br><br>
   
-Tested on Ubuntu, Fedora.
+Works on Ubuntu, Fedora.
