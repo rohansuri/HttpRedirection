@@ -23,4 +23,4 @@ And the result when you "Attack!!!"
 The victim tries to access codechef.com but is returned with google.com :)
 (See at the bottom Waiting for google.com)
 
-![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/capture.png "GUI")
+![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/capture.png "Attack")
