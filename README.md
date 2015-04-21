@@ -15,4 +15,4 @@ Read the doc file in the project, to understand -
 </ul>
 
 <h4>Screenshots</h4>
-![Alt text](http://github.com/rohansuri/HttpRedirection/screenshot.png "GUI")
+![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/screenshot.png "GUI")
