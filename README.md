@@ -14,3 +14,5 @@ Read the doc file in the project, to understand -
 <li>Explanation of iptables configuration
 </ul>
 
+<h4>Screenshots</h4>
+![Alt text](http://github.com/rohansuri/HttpRedirection/screenshot.png "GUI")
