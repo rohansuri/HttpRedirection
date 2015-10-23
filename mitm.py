@@ -32,7 +32,7 @@ def flushIPtablesandSetupRedirect():#description of rules given at the end, and 
  	os.system("/sbin/iptables --zero")
  	os.system("/sbin/iptables -A FORWARD --in-interface " +  Interface.get() + " -j ACCEPT")
  	os.system("/sbin/iptables -t nat --append POSTROUTING --out-interface " + Interface.get() + " -j MASQUERADE")
- 	os.system("/sbin/iptables -t nat -A PREROUTING -p tcp --dport 80,443 --jump DNAT --to-destination " + RedirectIP.get())
+ 	os.system("/sbin/iptables -t nat -A PREROUTING -p tcp --dport 80 --jump DNAT --to-destination " + RedirectIP.get())
 
 #main starts here, GUI part 
 root=Tkinter.Tk()
