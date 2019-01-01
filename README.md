@@ -15,7 +15,7 @@ Read the doc file in the project, to understand -
 </ul>
 
 <h4>Screenshots</h4>
-![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/screenshot.png "GUI")
+![](screenshot.png)
 
 The redirect IP in the above image is of www.google.com
 
@@ -23,4 +23,4 @@ And the result when you "Attack!!!"
 The victim tries to access codechef.com but is returned with google.com :)
 (See at the bottom Waiting for google.com)
 
-![Alt text](https://github.com/rohansuri/HttpRedirection/blob/master/capture.png "Attack")
+![](capture.png)
